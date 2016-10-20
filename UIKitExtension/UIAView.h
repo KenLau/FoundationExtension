@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <UIKitExtension/UIAViewController.h>
+#import "UIAViewController.h"
 
 /*!
  *  @brief UIView with refined lifecycle. (testing)
