@@ -34,7 +34,7 @@ FOUNDATION_EXPORT double FoundationExtensionRCVersionNumber;
 FOUNDATION_EXPORT const unsigned char FoundationExtensionRCVersionString[];
 
 
-#import <FoundationExtensionRC/NSArrayRC.h>
-#import <FoundationExtensionRC/NSObjectRC.h>
-#import <FoundationExtensionRC/NSTimerRC.h>
+#import "NSArrayRC.h"
+#import "NSObjectRC.h"
+#import "NSTimerRC.h"
 
